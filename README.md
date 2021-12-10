@@ -1,5 +1,15 @@
 # -ReCall20-
 
+3、最久远的的两个文件已 OUT ,现在已经上传最新的版本，maxRecall20_SSIGCN.py 以及 MaxRecall20_IGCN.py
+
+maxRecall20_SSIGCN.py     对应了，在加  cl_weight =0   情况下，寻找最大ReCall20文件
+
+MaxRecall20_IGCN.py       对应了，在  cl_weight=0.2 0.5  下，寻找最大ReCall20文件
+
+
+
+
+
 1、【maxRecall20.py】
 在王申学长的实验结果中，寻找最大的ReCall20文件，并输出相关的实验数据
 
