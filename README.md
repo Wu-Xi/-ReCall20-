@@ -1,5 +1,12 @@
 # -ReCall20-
 
+4、把之前的两个分别寻找IGCN和SSIGCN的代码文件，合并到了一起，一个代码去分别寻找；两个模型的最大值
+【输入】：代码有三个输入需要更改
+【NEW  输入】：在代码运行时选择相应的模型，IGCN或者SSIGCN模型
+新的代码【输出】见下图：
+![image](https://user-images.githubusercontent.com/52689912/146871969-2160ab6a-d666-4006-806f-bd0b31f02ce2.png)
+
+
 3、最久远的的两个文件已 OUT ,现在已经上传最新的版本，maxRecall20_SSIGCN.py 以及 MaxRecall20_IGCN.py
 
 maxRecall20_SSIGCN.py     对应了，在加  cl_weight =0   情况下，寻找最大ReCall20文件
