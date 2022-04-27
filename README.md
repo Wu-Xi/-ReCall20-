@@ -10,6 +10,7 @@
 ---
 使用方法：
 nuhup python trace_Pid.py xxxxx   yyyyyy
+
 (xxxxx,yyyyy)表示你指定的进程号
 
 
